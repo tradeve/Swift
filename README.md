@@ -5,3 +5,6 @@ Swift调用第三方类库YRBackGesture实现效果
 
 YRBackGesture作者：YueRuo
 YRBackGesture github：https://github.com/YueRuo/UINavigationController-YRBackGesture
+
+效果图：
+<img src="https://github.com/tradeve/SwiftYRBackGesture/blob/master/YRBackGesture.gif" />
